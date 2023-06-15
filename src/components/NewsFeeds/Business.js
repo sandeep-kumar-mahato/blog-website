@@ -4,7 +4,7 @@ export default function Business() {
   return (
     <div>
       <h2 className="text-xl font-bold mb-4">Business</h2>
-      <div className="flex gap-4">
+      <div className="flex flex-col gap-4 sm:flex-row">
         <div className="bg-white rounded-lg shadow p-6">
           <h3 className="text-base font-bold mb-2">Entrepreneurship Tips</h3>
           <p className="text-gray-700 text-sm text-justify">

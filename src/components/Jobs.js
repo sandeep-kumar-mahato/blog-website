@@ -13,7 +13,7 @@ function Jobs() {
     <div className="w-4/5 mx-auto py-8">
       <h2 className="text-center text-3xl font-bold mb-6">Jobs</h2>
       <div className="relative">
-        <div className="absolute -left-10 h-full w-2 bg-blue-500"></div>
+        <div className="absolute -left-5 lg:-left-10 h-full w-2 bg-blue-500"></div>
         <div className="p-4 ml-4">
           <div className="relative py-4">
             <SoftwareDevelopment />
