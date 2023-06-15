@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Blogs />
-      <div className="w-4/5 mx-auto p-4">
+      <div className="lg:w-4/5 mx-auto p-4">
         <h2 className="text-3xl font-bold my-4 text-center">News Feeds</h2>
         <div className="bg-white rounded-lg shadow p-4 mt-6">
           <NewsFeeds />
